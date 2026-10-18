@@ -1,0 +1,16 @@
+
+# Python virtual environments
+.venv/
+venv/
+env/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# Local secrets and environment variables
+.env
+
+# Jupyter Notebook temporary checkpoints
+.ipynb_checkpoints/
+

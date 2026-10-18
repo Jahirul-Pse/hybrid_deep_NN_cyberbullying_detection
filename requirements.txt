@@ -1,0 +1,15 @@
+# Recommended environment: Python 3.12 (64-bit)
+# Install with: python -m pip install -r requirements.txt
+
+numpy>=1.26,<2.2
+pandas>=2.2,<3.1
+scikit-learn>=1.5
+matplotlib>=3.8
+nltk>=3.9
+tqdm>=4.66
+torch>=2.5
+tensorflow>=2.16,<2.21
+transformers>=4.45
+gensim>=4.4
+ipykernel>=6.29
+jupyter>=1.1
